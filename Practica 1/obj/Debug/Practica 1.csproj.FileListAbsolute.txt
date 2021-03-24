@@ -20,3 +20,15 @@ C:\Users\gonza\OneDrive\FACULTAD\PROGRA 3\ACTIVIDAD 1\Practica 1\TP_N1_LAB3\Prac
 C:\Users\gonza\OneDrive\FACULTAD\PROGRA 3\ACTIVIDAD 1\Practica 1\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
 C:\Users\gonza\OneDrive\FACULTAD\PROGRA 3\ACTIVIDAD 1\Practica 1\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.exe
 C:\Users\gonza\OneDrive\FACULTAD\PROGRA 3\ACTIVIDAD 1\Practica 1\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.pdb
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.csprojAssemblyReference.cache
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica_1.frm_menu.resources
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica_1.Form2.resources
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.cache
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica 1.pdb
+C:\Users\germa\Documents\GitHub\TP_N1_LAB3\Practica 1\obj\Debug\Practica_1.Form3.resources

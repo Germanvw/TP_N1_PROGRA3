@@ -38,5 +38,11 @@ namespace Practica_1
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 frmEjerc2 = new Form3();
+            frmEjerc2.Show();
+        }
     }
 }
